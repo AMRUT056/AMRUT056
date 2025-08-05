@@ -13,7 +13,7 @@
 Mechanical Engineer passionate about Industry 4.0, Smart Manufacturing, and the future of automation.  
 M.Tech from IIT Bhubaneswar and B.Tech from LPU. I thrive on solving real-world problems by blending mechanical expertise with software and data skills.
 
-- **Specialties:** Python, Machine Learning, SolidWorks, Automation, Arduino, MATLAB, ANSYS,3d printing
+- **Specialties:** Python, Machine Learning, SolidWorks, Automation, Arduino, MATLAB, ANSYS,3D PRINTING
 - **Interests:** Digital Twin, Predictive Maintenance, Robotics, Lean Manufacturing
 
 ---
