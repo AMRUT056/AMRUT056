@@ -2,9 +2,7 @@
 
 **Manufacturing Engineer | Python | ML | Automation**  
 
-📧 [Email](mailto:tripathyamrutprasad@gmail.com) │  
-🔗 [LinkedIn](https://www.linkedin.com/in/amrut-prasad-tripathy-ba3b67a6/) │  
-💻 [GitHub](https://github.com/AMRUT056)  
+📧 [Email](mailto:tripathyamrutprasad@gmail.com) │  🔗 [LinkedIn](https://www.linkedin.com/in/amrut-prasad-tripathy-ba3b67a6/) │  💻 [GitHub](https://github.com/AMRUT056)  | 🌐 [WebPage](https://amrut056.github.io/amrut_tripathy/)
 
 ---
 
