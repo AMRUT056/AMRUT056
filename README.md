@@ -43,7 +43,7 @@ Passionate about **Industry 4.0, Digital Twin, Predictive Maintenance, and Smart
 ---
 
 ## 🏆 Achievements  
-- GATE **AIR 1369** (2025)  
+- GATE Mechanical **AIR 1369** (2025)  
 - Cleared **ISRO & other competitive exams**  
 
 
