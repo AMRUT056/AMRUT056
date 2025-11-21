@@ -45,13 +45,14 @@ Passionate about **Industry 4.0, Digital Twin, Predictive Maintenance, and Smart
 ## 🏆 Achievements  
 - GATE **AIR 1369** (2025)  
 - Cleared **ISRO & other competitive exams**  
-- **Lean Project:** Improved productivity by **12%**, savings of **₹2.43 Lakh**, achieved **zero defects**  
+
 
 ---
 
 ## 📜 Certifications  
 - Machine Learning using Python (*Simplilearn*)  
-- Lean Six Sigma (*PMI*)  
+- Lean Six Sigma (*PMI*)
+- Data Science (Sclar) 
 
 ---
 
