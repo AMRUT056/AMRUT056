@@ -37,7 +37,7 @@ Passionate about **Industry 4.0, Digital Twin, Predictive Maintenance, and Smart
 ---
 
 ## 🎓 Education  
-- **M.Tech in Manufacturing Science** – *IIT Bhubaneswar* (CGPA: **8.26**)  
+- **M.Tech in Manufacturing Science** – *IIT Bhubaneswar* (CGPA: **8.23**)  
 - **B.Tech in Mechanical Engineering** – *LPU* (CGPA: **8.43**)  
 
 ---
